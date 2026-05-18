@@ -1,7 +1,6 @@
 # Python Data Analysis Learning
 
-This repository contains a collection of Python notebooks created using **Google Colab** as part of my learning journey through various bootcamps and courses using Google Colab.
-
+This repository contains a collection of Python notebooks created using **Google Colab** as part of my learning journey through various bootcamps and courses.
 The notebooks focus on building a strong foundation in Python programming and basic data analysis concepts, especially for data-related roles.
 
 ---
