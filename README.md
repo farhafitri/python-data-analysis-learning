@@ -1,6 +1,6 @@
-# Python Data Analysis – DQLab
+# Python Data Analysis Learning
 
-This repository contains a collection of Python notebooks created using **Google Colab** as part of my learning journey with **DQLab**.
+This repository contains a collection of Python notebooks created using **Google Colab** as part of my learning journey through various bootcamps and courses using Google Colab.
 
 The notebooks focus on building a strong foundation in Python programming and basic data analysis concepts, especially for data-related roles.
 
@@ -15,14 +15,15 @@ The notebooks focus on building a strong foundation in Python programming and ba
 - Data manipulation using **Pandas**
 - Handling missing data
 - Basic Exploratory Data Analysis (EDA)
-
+- Basic Machine Learning
 ---
 
 ## 🛠 Tools & Environment
 - Python
 - Google Colab
 - Pandas
-
+- NumPy
+  
 ---
 
 ## 🎯 Purpose
